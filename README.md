@@ -79,6 +79,25 @@ I care about writing code that scales cleanly, systems that are secure and maint
 ### 🚀 Featured Projects
 
 <details>
+<summary><b>📊 InsightBoard — Survey & Analytics Platform</b></summary>
+<br/>
+
+A production-grade, full-stack survey creation, data collection, and analytics platform built end-to-end with the MERN stack. Lets researchers, educators, and teams design custom surveys, collect responses via a single shareable link, and analyze results through a live, chart-driven dashboard.
+
+| Category | Details |
+|---|---|
+| **Stack** | React, Node.js, Express, MongoDB, JWT Auth, Recharts, Groq API (Llama 3.3 70B) |
+| **Scale** | Multi-survey platform with public/private surveys, passcode protection, and anonymous respondent collection |
+| **Performance** | Live-updating analytics dashboard with polling-based results and zero manual refresh |
+| **Security** | JWT-based authentication, bcrypt password hashing, transactional email password reset flow |
+| **Impact** | AI-powered sentiment analysis, explainable rule-based response-quality flagging, and one-click CSV export for researchers and teams |
+| **Repository** | [InsightBoard](https://github.com/AyeshaShahid10/InsightBoard) · [Live Demo](https://insight-board-seven-psi.vercel.app) |
+
+Built as a complete product experience covering survey building, response collection, and analytics, this project demonstrates full-stack ownership from schema design through AI-assisted data insights.
+
+</details>
+
+<details>
 <summary><b>💊 Medication Reminder System</b></summary>
 <br/>
 
@@ -98,59 +117,40 @@ Built with an emphasis on reliability and simplicity, this project demonstrates 
 </details>
 
 <details>
-<summary><b>🌐 Responsively App (Open Source Contribution)</b></summary>
+<summary><b>🎬 Video Captioning Agent</b></summary>
 <br/>
 
-Contributed to **Responsively App**, an open-source modified web browser purpose-built for responsive web development, allowing developers to preview multiple viewports simultaneously.
+An AI agent that watches a short video clip and generates captions in four distinct voices — formal, sarcastic, humorous tech, and humorous non-tech — while keeping every caption grounded in what's actually happening on screen. Originally built for the AMD Developer Hackathon: ACT II (Video Captioning track).
 
 | Category | Details |
 |---|---|
-| **Stack** | JavaScript, Electron, React |
-| **Scale** | Widely used cross-platform developer tool |
-| **Performance** | Optimized multi-viewport rendering |
-| **Security** | Sandboxed Electron architecture |
-| **Impact** | Speeds up responsive design workflows for developers globally |
-| **Repository** | [responsively-app](https://github.com/AyeshaShahid10/responsively-app) |
+| **Stack** | Python, Docker, Vision & Language Models (Fireworks AI) |
+| **Scale** | Three-phase pipeline: perception, parallel style generation, and schema-validated integration |
+| **Performance** | Frame sampling by timestamp with retry/backoff clip downloads for reliable processing of variable-frame-rate video |
+| **Security** | Strict schema validation on generated output before write |
+| **Impact** | Separates factual scene perception from creative writing to prevent hallucinated captions |
+| **Repository** | [video-captioning-agent](https://github.com/AyeshaShahid10/video-captioning-agent) |
 
-Working within an established open-source codebase sharpened my ability to read, extend, and contribute to large-scale JavaScript/Electron applications under real contribution guidelines.
+This project reinforced my understanding of multi-stage AI agent pipelines splitting "seeing" from "writing" to keep generated content grounded and reliable.
 
 </details>
 
 <details>
-<summary><b>🎬 RVE — Open Source Video Editor</b></summary>
+<summary><b>🔍 AI Plagiarism Checker</b></summary>
 <br/>
 
-Collaborated on **RVE**, an open-source cross-platform online video editor built to run seamlessly across Windows, Linux, macOS, and ChromeOS.
+A command-line plagiarism-checking tool that compares text against Wikipedia or against other local files using TF-IDF vectorization and cosine similarity to flag likely copy-paste overlap.
 
 | Category | Details |
 |---|---|
-| **Stack** | HTML, JavaScript, Web APIs |
-| **Scale** | Cross-platform browser-based editing engine |
-| **Performance** | Optimized in-browser rendering pipeline |
-| **Security** | Client-side sandboxed media processing |
-| **Impact** | Democratizes access to free, browser-based video editing |
-| **Repository** | [rve](https://github.com/AyeshaShahid10/rve) |
+| **Stack** | Python, TF-IDF / Cosine Similarity, Wikipedia API |
+| **Scale** | Single-document and multi-file batch comparison modes |
+| **Performance** | Lightweight lexical similarity scoring with a tunable similarity threshold |
+| **Security** | N/A (local, offline text-processing utility) |
+| **Impact** | Practical, transparent alternative to black-box plagiarism tools for catching obvious copy-paste overlap |
+| **Repository** | [PlagiarismChecker](https://github.com/AyeshaShahid10/PlagiarismChecker) |
 
-This project reinforced my understanding of browser-based media processing and reinforced collaborative open-source development practices.
-
-</details>
-
-<details>
-<summary><b>🧩 WordPuzzle — Crossword Generator</b></summary>
-<br/>
-
-Contributed to an open-source crossword puzzle generator, focused on algorithmic word placement and grid generation logic.
-
-| Category | Details |
-|---|---|
-| **Stack** | JavaScript, Algorithmic Grid Generation |
-| **Scale** | Dynamic puzzle generation from word lists |
-| **Performance** | Efficient backtracking-based placement algorithm |
-| **Security** | N/A (client-side utility) |
-| **Impact** | Good-first-issue friendly open-source learning tool |
-| **Repository** | [WordPuzzle](https://github.com/AyeshaShahid10/WordPuzzle) |
-
-A great exercise in algorithmic thinking implementing constraint-based placement logic for auto-generated crossword grids.
+Built to learn how TF-IDF vectorization and the Wikipedia API work together, this project sharpened my grasp of text-similarity algorithms and applied NLP fundamentals.
 
 </details>
 
