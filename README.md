@@ -15,8 +15,8 @@
 <br/><br/>
 
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=E0AAFF" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=B388FF" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=E0AAFF" /></a>
+<a href="https://www.linkedin.com/in/ayesha-shahid-2754aa252"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=B388FF" /></a>
+<a href="mailto:ayeshashahid1078@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=E0AAFF" /></a>
 <a href="https://github.com/AyeshaShahid10"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=B388FF" /></a>
 
 <br/><br/>
