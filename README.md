@@ -189,21 +189,23 @@ Design and build full-stack web applications end-to-end, from database schema an
 
 ### 📜 Certifications
 
-**AWS**
+<div align="center">
 
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<a href="https://coursera.org/verify/specialization/LRK8UJ1VBA91"><img src="https://img.shields.io/badge/Google%20Prompting%20Essentials%20(Specialization)-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/verify/5AI3I9UC1K7D"><img src="https://img.shields.io/badge/Start%20Writing%20Prompts%20like%20a%20Pro-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/verify/FGP5I0WIPT22"><img src="https://img.shields.io/badge/Design%20Prompts%20for%20Everyday%20Work%20Tasks-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/verify/OH2V78V8OZW0"><img src="https://img.shields.io/badge/Speed%20Up%20Data%20Analysis%20%26%20Presentation%20Building-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Deloitte%20Technology%20Job%20Simulation-86BC25?style=flat-square&logo=deloitte&logoColor=white" /></a>
 
-**Oracle**
+</div>
 
-<img src="https://img.shields.io/badge/Oracle%20Certified%20Foundations-F80000?style=flat-square&logo=oracle&logoColor=white" />
-
-**NPTEL**
-
-<img src="https://img.shields.io/badge/NPTEL%20Certification-1E3A8A?style=flat-square&logo=googlescholar&logoColor=white" />
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco%20Networking%20Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+| Certification | Issuer | Date | Verify |
+|---|---|---|---|
+| Google Prompting Essentials (Specialization — 4 courses) | Google / Coursera | Jul 24, 2026 | [Verify](https://coursera.org/verify/specialization/LRK8UJ1VBA91) |
+| Start Writing Prompts like a Pro | Google / Coursera | Jun 20, 2025 | [Verify](https://coursera.org/verify/5AI3I9UC1K7D) |
+| Design Prompts for Everyday Work Tasks | Google / Coursera | Jul 24, 2026 | [Verify](https://coursera.org/verify/FGP5I0WIPT22) |
+| Speed Up Data Analysis and Presentation Building | Google / Coursera | Jul 24, 2026 | [Verify](https://coursera.org/verify/OH2V78V8OZW0) |
+| Technology Job Simulation | Deloitte (via Forage) | Jul 18, 2026 | Verification Code: `6a5a537e4bffa9009b0ed230` |
 
 > *Add or remove badges above to match your verified certifications.*
 
