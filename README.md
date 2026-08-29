@@ -98,6 +98,25 @@ Built as a complete product experience covering survey building, response collec
 </details>
 
 <details>
+<summary><b>📄 Chat with PDF</b></summary>
+<br/>
+
+A full-stack app that lets users upload a PDF and have a conversation with its contents, using an LLM to answer questions grounded in the document text instead of general knowledge.
+
+| Category | Details |
+|---|---|
+| **Stack** | React (Vite), Node.js, Express, MongoDB (Mongoose), JWT Auth, Google GenAI API, pdf-parse, Multer, Docker |
+| **Scale** | Monorepo workspace structure with separate frontend and backend packages, containerized via Docker Compose |
+| **Performance** | Server-side PDF text extraction with document-grounded Q&A responses |
+| **Security** | JWT-based authentication with bcrypt password hashing, file-upload handling via Multer |
+| **Impact** | Turns static PDFs into an interactive, queryable knowledge source |
+| **Repository** | [chat-with-pdf](https://github.com/AyeshaShahid10/chat-with-pdf) |
+
+*Live demo link coming soon.*
+
+</details>
+
+<details>
 <summary><b>💊 Medication Reminder System</b></summary>
 <br/>
 
